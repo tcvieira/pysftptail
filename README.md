@@ -14,7 +14,7 @@
 
 
 # pysftp-tail
-pySFTP-tail is a Python3 implementaion of the tail command over a sftp connection
+pySFTPtail is a Python3 implementaion of the tail command over a sftp connection
 
 # Usage
 
