@@ -7,6 +7,8 @@
     | |     __/ |                                     
     |_|    |___/                                      
 
+[![Build Status](https://travis-ci.com/tcvieira/pysftptail.svg?branch=master)](https://travis-ci.com/tcvieira/pysftptail)
+
 # pysftp-tail
 pySFTP-tail is a Python3 implementaion of the tail command over a sftp connection
 
