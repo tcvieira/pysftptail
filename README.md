@@ -9,10 +9,10 @@
 
 [![Build Status](https://travis-ci.com/tcvieira/pysftptail.svg?branch=master)](https://travis-ci.com/tcvieira/pysftptail)
 [![codecov](https://codecov.io/gh/tcvieira/pysftptail/branch/master/graph/badge.svg)](https://codecov.io/gh/tcvieira/pysftptail)
+[![Documentation](https://img.shields.io/badge/docs-ok-green.svg)](https://tcvieira.github.io/pysftptail/)
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-[![Documentation](https://img.shields.io/badge/docs-ok-green.svg)](https://tcvieira.github.io/pysftptail/)
 
 # pysftp-tail
 pySFTPtail is a Python3 implementaion of the tail command over a sftp connection
