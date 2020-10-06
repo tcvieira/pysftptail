@@ -1,5 +1,5 @@
 site_name: pysftptail
-repo-url: https://github.com/tcvieira/pysftptail
+repo_url: https://github.com/tcvieira/pysftptail
 nav:
   - Home: index.md
   - About: about.md
