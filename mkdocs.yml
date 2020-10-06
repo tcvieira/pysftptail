@@ -1,5 +1,6 @@
 site_name: pysftptail
 repo_url: https://github.com/tcvieira/pysftptail
+site_author: Thiago Vieira
 nav:
   - Home: index.md
   - About: about.md
